@@ -1,0 +1,7 @@
+Retinopati ,	Göz hastalığı
+Eksüdalar  ,	Hücreden dışarı sıvı atılması.
+Arterioles ,	Küçük atardamarlar.
+Vitreus    ,	Hemorajisi ,Göz içi kanama
+Venüller   ,	Kılcal damarlar ile venler (toplardamar) arasında bulunan kan dallarıdır ve kılcal damarlardan venlere oksijenlenmemiş kan taşırlar.
+Mikroanevrizmalar  ,	Küçük atardamarların duvarında oluşan baloncuk şeklindeki patolojik genişlemeleri.
+Neovaskülarizasyon ,	Yeni damar oluşumu.
