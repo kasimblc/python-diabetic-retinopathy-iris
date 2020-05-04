@@ -8,6 +8,7 @@ Tüm dünyada 120 milyon diyabet hastası vardır ve 2,5 milyon kişi diyabet ne
 Özellikle Hindistan gibi gelişmekte olan ülkelerde hasta oranlarının yüksek olmasıyla beraber teşhis koyması zor ve yavaş bir süreç içerisinde işliyor.
 
 (APTOS) Asia Pacific Tele-Ophthalmology Society sağladığı orjinal veri setine aşağıdaki linkten ulaşabilirsiniz.Ben resimlerin boyutunun yüksek olmasından dolayı örnek amaçlı 10 tane resim yükledim.
+
 https://www.kaggle.com/c/aptos2019-blindness-detection  adresinden detayları öğrenebilir aynı zamanda başka çalışmalara ulaşabilirsiniz.
 
 Aşağıdaki adreslerden görüntü işleme konusunda yararlandım.
