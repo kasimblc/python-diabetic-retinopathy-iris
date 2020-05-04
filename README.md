@@ -1,5 +1,6 @@
 # Phyton_diabetic-retinopathy_iris
 Hastalığın Tanımı - ÖZET
+
 Kronik hastalıklardan biri olan retinopati, glikoz homeostazının işlev bozukluğu ile karakterize edilen diyabet mellitus'tur. 
 Diyabet, insülin salınımı veya insülin etkisinin yetersizliği sonucu kan şekerinin artmasıyla kendini gösteren metabolik bir hastalıktır. 
 Milyonlarca insan, çalışan yaşlı yetişkinler arasında körlüğün önde gelen nedeni olan diyabetik retinopatiden muzdariptir. 
