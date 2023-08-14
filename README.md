@@ -13,5 +13,8 @@ Tüm dünyada 120 milyon diyabet hastası vardır ve 2,5 milyon kişi diyabet ne
 https://www.kaggle.com/c/aptos2019-blindness-detection  adresinden detayları öğrenebilir aynı zamanda başka çalışmalara ulaşabilirsiniz.
 
 Aşağıdaki adreslerden görüntü işleme konusunda yararlandım.
-https://github.com/btgraham/SparseConvNet/tree/kaggle_Diabetic_Retinopathy_competition
 https://www.kaggle.com/ratthachat/aptos-eye-preprocessing-in-diabetic-retinopathy#UPDATE-on-V9:
+
+![1947516](https://github.com/kasimblc/Python_diabetic-retinopathy_iris/assets/54179910/c753a01d-937d-4c63-b78f-e3c076863212)
+
+![__results___23_1](https://github.com/kasimblc/Python_diabetic-retinopathy_iris/assets/54179910/3cf2ea44-5d24-48c8-b764-4164ea928a68)
