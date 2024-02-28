@@ -1,4 +1,4 @@
-# Python_diabetic-retinopathy_iris
+# Python Diabetic Retinopathy Iris
 Hastalığın Tanımı - ÖZET
 
 Kronik hastalıklardan biri olan retinopati, glikoz homeostazının işlev bozukluğu ile karakterize edilen diyabet mellitus'tur. 
